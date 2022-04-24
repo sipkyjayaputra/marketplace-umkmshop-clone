@@ -1,0 +1,63 @@
+.plain-link {
+    text-decoration: none;
+}
+
+.rounded-socmed {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.point-icon {
+    font-size: 25px;
+}
+
+.point-text {
+    margin-top: 12px;
+    font-size: 12px;
+}
+
+.link-shop-name {
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.card-title {
+    font-size: 14px !important;
+}
+
+.card-text {
+    font-size: 12px !important;
+}
+
+.product-tag {
+    font-size: 9px !important;
+}
+
+.footer {
+    border-top: 5px solid green;
+}
+
+.link-item {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 15px;
+    font-size: 14px;
+}
+
+.link-item-parent {
+    margin: 0;
+    padding: 0;
+}
+
+.link-item-child {
+    text-decoration: none;
+    color: green;
+}
+
+.footer-header {
+    font-size: 18px;
+}
